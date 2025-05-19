@@ -34,5 +34,4 @@ jobs:
             -Dsonar.organization=zxcnevermorezxc
             -Dsonar.go.coverage.reportPaths=coverage.out
             -Dsonar.sources=.
-            -Dsonar.tests=.
             -Dsonar.coverage.exclusions=**/*_test.go
