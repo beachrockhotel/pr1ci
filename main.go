@@ -20,7 +20,7 @@ func main() {
 	}
 } // test trigger
 // force build
-// retry sync
+// retry sync3
 // token integration test
 // token integration test
 // final check
